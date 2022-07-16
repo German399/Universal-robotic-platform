@@ -1,0 +1,16 @@
+%YAML:1.0
+Camera.RGB: 1
+Camera.cx: 400
+Camera.cy: 400
+Camera.fps: 30.0
+Camera.fx: 1
+Camera.fy: 1
+Camera.k1: 0
+Camera.k2: 0
+Camera.p1: 0
+Camera.p2: 0
+ORBextractor.iniThFAST: 20
+ORBextractor.minThFAST: 7
+ORBextractor.nFeatures: 2000
+ORBextractor.nLevels: 8
+ORBextractor.scaleFactor: 1.2
